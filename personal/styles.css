@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    background-color: teal;
+    height: 690px;
+}
+.container{
+    margin: 10px 20px;
+    border: none !important;
+    outline: none;
+    background-color: white;
+    padding: 10px 30px;
+    font-family: 'Poppins', sans-serif;
+    height:600px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Arimo', sans-serif;
+    line-height: 1.5em;  
+}
